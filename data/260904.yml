@@ -7,7 +7,7 @@ about:
   head: f12f3d9
   archived: false
   latestVersion: v1.20.0
-  collectedAt: 2026-09-04T19:30:34Z
+  collectedAt: 2026-09-04T20:59:27Z
 timeline:
   created: 2018-01-13
   lastCommit: 2026-04-30
@@ -81,6 +81,44 @@ total:
   openIssue: 54
   commit: 1018
 ---
+path: /home/runner/.x-repo/github.com/sharkdp/hyperfine
+collectedAt: 2026-09-04T20:59:28Z
+loc:
+  Rust:
+    code: 5252
+    comments: 134
+    blanks: 743
+    files: 41
+  Svg:
+    code: 955
+    comments: 1
+    blanks: 1
+    files: 1
+  Python:
+    code: 418
+    comments: 57
+    blanks: 102
+    files: 7
+  Toml:
+    code: 72
+    comments: 1
+    blanks: 12
+    files: 2
+  Markdown:
+    code: 0
+    comments: 530
+    blanks: 258
+    files: 3
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 6704
+  comments: 892
+  blanks: 1120
+  files: 55
 ---
 date: "2026-08-24"
 repo:
