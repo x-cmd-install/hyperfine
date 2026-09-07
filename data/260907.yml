@@ -5,13 +5,13 @@ about:
   head: f12f3d9
   archived: false
   latestVersion: "v1.20.0"
-  collectedAt: 2026-09-07T05:11:49Z
+  collectedAt: 2026-09-07T19:20:16Z
 timeline:
   created: 2018-01-13
   lastCommit: 2026-04-30
   lastRelease: 2025-11-18
 popularity:
-  star: 28811
+  star: 28816
   watcher: 109
   fork: 509
   release: 26
@@ -80,7 +80,7 @@ total:
   commit: 1018
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/hyperfine
-collectedAt: 2026-09-07T05:11:50Z
+collectedAt: 2026-09-07T19:20:17Z
 loc:
   Rust:
     code: 5252
@@ -220,7 +220,7 @@ checks:
       - 'Warn: 0 commits out of 19 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:50+00:00
+  collectedAt: 2026-09-07T19:20:17+00:00
   platform:
     darwin/arm64:
       name:  hyperfine-v1.20.0-aarch64-apple-darwin.tar.gz
