@@ -5,13 +5,13 @@ about:
   head: f12f3d9
   archived: false
   latestVersion: "v1.20.0"
-  collectedAt: 2026-09-08T02:26:03Z
+  collectedAt: 2026-09-08T05:18:46Z
 timeline:
   created: 2018-01-13
   lastCommit: 2026-04-30
   lastRelease: 2025-11-18
 popularity:
-  star: 28816
+  star: 28817
   watcher: 109
   fork: 509
   release: 26
@@ -80,7 +80,7 @@ total:
   commit: 1018
 ---
 path: /home/runner/.x-repo/github.com/sharkdp/hyperfine
-collectedAt: 2026-09-08T02:26:04Z
+collectedAt: 2026-09-08T05:18:47Z
 loc:
   Rust:
     code: 5252
