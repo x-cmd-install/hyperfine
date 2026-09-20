@@ -4,7 +4,7 @@
 
 A command-line benchmarking tool
 
-![hyperfine](https://repo.x-cmd.io/hyperfine.svg)
+[![x-cmd/install — hyperfine Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hyperfine.svg)](https://x-cmd.com/install/hyperfine)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,875 · **Forks**: 509 · **Open issues**: 281 · **Contributors**: 109
+- **Stars**: 28,879 · **Forks**: 510 · **Open issues**: 281 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 466 · **Open PRs**: 43 · **Closed issues**: 227 · **Open issues**: 54 · **Commits**: 1018
+- **Releases**: 26 · **Merged PRs**: 466 · **Open PRs**: 44 · **Closed issues**: 227 · **Open issues**: 54 · **Commits**: 1018
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 9 | 0 | 2 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 14 | 0 | 2 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 23 | 0 | 5 | 1 |
-| 360d | 2025-09-23 | 1 | 5 | 34 | 0 | 11 | 8 |
-| last720d | 2024-09-28 | 2 | 26 | 41 | 8 | 24 | 51 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 10 | 0 | 2 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 15 | 0 | 2 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 24 | 0 | 5 | 1 |
+| 360d | 2025-09-25 | 1 | 5 | 35 | 0 | 11 | 8 |
+| last720d | 2024-09-30 | 2 | 26 | 42 | 8 | 24 | 51 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:32:11Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:35:13Z._
