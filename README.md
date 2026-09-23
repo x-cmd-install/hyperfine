@@ -4,7 +4,7 @@
 
 A command-line benchmarking tool
 
-[![x-cmd/install — hyperfine Code Quality Monitoring Repo Card](https://repo.x-cmd.io/hyperfine.svg)](https://x-cmd.com/install/hyperfine)
+[![x-cmd/install — hyperfine Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/hyperfine.svg)](https://x-cmd.com/install/hyperfine)
 
 ## Install
 
@@ -31,8 +31,8 @@ Overall score: **3.1 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,890 · **Forks**: 511 · **Open issues**: 282 · **Contributors**: 109
+- **Stars**: 28,893 · **Forks**: 512 · **Open issues**: 282 · **Contributors**: 109
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 466 · **Open PRs**: 45 · **Closed issues**: 227 · **Open issues**: 55 · **Commits**: 1018
+- **Releases**: 26 · **Merged PRs**: 466 · **Open PRs**: 46 · **Closed issues**: 227 · **Open issues**: 55 · **Commits**: 1018
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 11 | 0 | 3 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 16 | 0 | 3 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 25 | 0 | 6 | 1 |
-| 360d | 2025-09-27 | 1 | 5 | 36 | 0 | 12 | 6 |
-| last720d | 2024-10-02 | 2 | 26 | 43 | 8 | 25 | 51 |
+| 30d | 2026-08-24 | 0 | 0 | 5 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 11 | 0 | 3 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 17 | 0 | 3 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 26 | 0 | 6 | 1 |
+| 360d | 2025-09-28 | 1 | 5 | 37 | 0 | 12 | 6 |
+| last720d | 2024-10-03 | 2 | 26 | 44 | 8 | 25 | 51 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:40:03Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:47:33Z._
