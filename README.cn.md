@@ -14,15 +14,15 @@ x install hyperfine
 
 ## 代码洞察
 
-合计: **6,792** 行代码（覆盖前 5 种语言、共 **54** 个文件）。
+合计: **8,435** 行代码（覆盖前 5 种语言、共 **56** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 5,344 | 139 | 752 | 41 |
+| Rust | 6,910 | 154 | 888 | 42 |
 | Svg | 955 | 1 | 1 | 1 |
-| Python | 421 | 57 | 102 | 7 |
-| Toml | 72 | 2 | 12 | 2 |
-| Markdown | 0 | 520 | 252 | 3 |
+| Python | 495 | 57 | 111 | 8 |
+| Toml | 75 | 2 | 12 | 2 |
+| Markdown | 0 | 582 | 276 | 3 |
 
 ## OpenSSF Scorecard 评分
 
@@ -41,51 +41,54 @@ x install hyperfine
 
 ## 发布
 
-- **最新版本**: `v1.20.0` (2025-11-18)
-- **最近提交**: 2026-10-02
-- **Release 含资产**: 18 个
+- **最新版本**: `v1.21.0` (2026-10-05)
+- **最近提交**: 2026-10-06
+- **Release 含资产**: 21 个
 
 ## 流行度
 
-- **Star**: 28,946 · **Fork**: 516 · **开放 issue**: 283 · **贡献者**: 115
+- **Star**: 28,951 · **Fork**: 518 · **开放 issue**: 283 · **贡献者**: 123
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 486 · **开放 PR**: 43 · **已关闭 issue**: 230 · **开放 issue**: 53 · **提交数**: 1041
+- **发布数**: 27 · **已合并 PR**: 527 · **开放 PR**: 15 · **已关闭 issue**: 240 · **开放 issue**: 43 · **提交数**: 1192
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 15 | 7 | 1 | 1 | 19 |
-| last60d | 2026-08-06 | 0 | 18 | 10 | 1 | 2 | 19 |
-| 90d | 2026-07-07 | 0 | 19 | 15 | 2 | 2 | 21 |
-| last180d | 2026-04-08 | 0 | 19 | 21 | 2 | 5 | 22 |
-| 360d | 2025-10-10 | 1 | 22 | 34 | 3 | 10 | 25 |
-| last720d | 2024-10-15 | 2 | 46 | 41 | 11 | 23 | 74 |
+| 30d | 2026-09-06 | 1 | 46 | 4 | 1 | 1 | 121 |
+| last60d | 2026-08-07 | 1 | 49 | 6 | 1 | 2 | 121 |
+| 90d | 2026-07-08 | 1 | 50 | 9 | 2 | 2 | 123 |
+| last180d | 2026-04-09 | 1 | 53 | 10 | 2 | 5 | 128 |
+| 360d | 2025-10-11 | 2 | 60 | 12 | 5 | 8 | 135 |
+| last720d | 2024-10-16 | 3 | 86 | 15 | 19 | 15 | 225 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [hyperfine-musl_1.20.0_amd64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-musl_1.20.0_amd64.deb) | 600.2 KiB | `runtime/deb/amd64` |
-| [hyperfine-musl_1.20.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-musl_1.20.0_armhf.deb) | 571.0 KiB | `runtime/deb/armhf` |
-| [hyperfine-musl_1.20.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-musl_1.20.0_i686.deb) | 615.7 KiB | `other` |
-| [hyperfine-v1.20.0-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-aarch64-apple-darwin.tar.gz) | 568.9 KiB | `native/darwin/arm64` |
-| [hyperfine-v1.20.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-aarch64-unknown-linux-gnu.tar.gz) | 593.6 KiB | `native/linux/arm64/glibc` |
-| [hyperfine-v1.20.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-arm-unknown-linux-gnueabihf.tar.gz) | 623.5 KiB | `native/linux/arm/glibc` |
-| [hyperfine-v1.20.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-arm-unknown-linux-musleabihf.tar.gz) | 654.6 KiB | `native/linux/arm/musl` |
-| [hyperfine-v1.20.0-i686-pc-windows-msvc.zip](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-i686-pc-windows-msvc.zip) | 538.4 KiB | `native/win/x64` |
-| [hyperfine-v1.20.0-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-i686-unknown-linux-gnu.tar.gz) | 669.2 KiB | `native/linux/x86/glibc` |
-| [hyperfine-v1.20.0-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-i686-unknown-linux-musl.tar.gz) | 699.1 KiB | `native/linux/x86/musl` |
-| [hyperfine-v1.20.0-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-apple-darwin.tar.gz) | 607.1 KiB | `native/darwin/x64` |
-| [hyperfine-v1.20.0-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-pc-windows-msvc.zip) | 575.5 KiB | `native/win/x64` |
-| [hyperfine-v1.20.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-unknown-linux-gnu.tar.gz) | 642.5 KiB | `native/linux/x64/glibc` |
-| [hyperfine-v1.20.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine-v1.20.0-x86_64-unknown-linux-musl.tar.gz) | 693.5 KiB | `native/linux/x64/musl` |
-| [hyperfine_1.20.0_amd64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine_1.20.0_amd64.deb) | 555.1 KiB | `runtime/deb/amd64` |
-| [hyperfine_1.20.0_arm64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine_1.20.0_arm64.deb) | 512.9 KiB | `runtime/deb/arm64` |
-| [hyperfine_1.20.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine_1.20.0_armhf.deb) | 544.1 KiB | `runtime/deb/armhf` |
-| [hyperfine_1.20.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.20.0/hyperfine_1.20.0_i686.deb) | 590.1 KiB | `other` |
+| [hyperfine-musl_1.21.0_amd64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_amd64.deb) | 588.6 KiB | `runtime/deb/amd64` |
+| [hyperfine-musl_1.21.0_arm64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_arm64.deb) | 541.8 KiB | `runtime/deb/arm64` |
+| [hyperfine-musl_1.21.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_armhf.deb) | 561.6 KiB | `runtime/deb/armhf` |
+| [hyperfine-musl_1.21.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_i686.deb) | 604.3 KiB | `other` |
+| [hyperfine-v1.21.0-aarch64-apple-darwin.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-apple-darwin.tar.gz) | 567.3 KiB | `native/darwin/arm64` |
+| [hyperfine-v1.21.0-aarch64-pc-windows-msvc.zip](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-pc-windows-msvc.zip) | 539.0 KiB | `native/win/arm64` |
+| [hyperfine-v1.21.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-unknown-linux-gnu.tar.gz) | 584.5 KiB | `native/linux/arm64/glibc` |
+| [hyperfine-v1.21.0-aarch64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-unknown-linux-musl.tar.gz) | 633.0 KiB | `native/linux/arm64/musl` |
+| [hyperfine-v1.21.0-arm-unknown-linux-gnueabihf.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-arm-unknown-linux-gnueabihf.tar.gz) | 617.6 KiB | `native/linux/arm/glibc` |
+| [hyperfine-v1.21.0-arm-unknown-linux-musleabihf.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-arm-unknown-linux-musleabihf.tar.gz) | 652.6 KiB | `native/linux/arm/musl` |
+| [hyperfine-v1.21.0-i686-pc-windows-msvc.zip](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-pc-windows-msvc.zip) | 539.2 KiB | `native/win/x64` |
+| [hyperfine-v1.21.0-i686-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-unknown-linux-gnu.tar.gz) | 662.9 KiB | `native/linux/x86/glibc` |
+| [hyperfine-v1.21.0-i686-unknown-linux-musl.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-unknown-linux-musl.tar.gz) | 694.6 KiB | `native/linux/x86/musl` |
+| [hyperfine-v1.21.0-x86_64-apple-darwin.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-apple-darwin.tar.gz) | 608.6 KiB | `native/darwin/x64` |
+| [hyperfine-v1.21.0-x86_64-pc-windows-msvc.zip](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-pc-windows-msvc.zip) | 580.6 KiB | `native/win/x64` |
+| [hyperfine-v1.21.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-unknown-linux-gnu.tar.gz) | 635.9 KiB | `native/linux/x64/glibc` |
+| [hyperfine-v1.21.0-x86_64-unknown-linux-musl.tar.gz](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-unknown-linux-musl.tar.gz) | 689.3 KiB | `native/linux/x64/musl` |
+| [hyperfine_1.21.0_amd64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_amd64.deb) | 541.2 KiB | `runtime/deb/amd64` |
+| [hyperfine_1.21.0_arm64.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_arm64.deb) | 497.1 KiB | `runtime/deb/arm64` |
+| [hyperfine_1.21.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_armhf.deb) | 529.2 KiB | `runtime/deb/armhf` |
+| [hyperfine_1.21.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_i686.deb) | 577.2 KiB | `other` |
 
 ## 改进这些数据
 
@@ -96,4 +99,4 @@ hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261005.yml` · 2026-10-05T06:08:57Z._
+_数据快照: `data/card/261006.yml` · 2026-10-06T06:55:27Z._
