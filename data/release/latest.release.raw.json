@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 602694,
       "digest": "sha256:643b0e6d22ea41de977861ce656040dfdea2a6bf9d756f8c7edf9c31da2f3c75",
-      "download_count": 13,
+      "download_count": 26,
       "created_at": "2026-10-05T14:11:36Z",
       "updated_at": "2026-10-05T14:11:36Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 554814,
       "digest": "sha256:80a7840ea3b46591f15156a687720e11c63b3274bb8dc2e947a7ec6e5447a3e5",
-      "download_count": 6,
+      "download_count": 13,
       "created_at": "2026-10-05T14:11:31Z",
       "updated_at": "2026-10-05T14:11:31Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_arm64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 575088,
       "digest": "sha256:3a30671cd290f9da1e660aa6c457ae9ac77f88bac8a759590ec95a69b1df5704",
-      "download_count": 5,
+      "download_count": 12,
       "created_at": "2026-10-05T14:11:23Z",
       "updated_at": "2026-10-05T14:11:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_armhf.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 618832,
       "digest": "sha256:1605877cb469017031b7b07e6036751ac37c3abfcc210b81d483d4ff86fa7ffe",
-      "download_count": 4,
+      "download_count": 11,
       "created_at": "2026-10-05T14:11:32Z",
       "updated_at": "2026-10-05T14:11:33Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-musl_1.21.0_i686.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 580870,
       "digest": "sha256:4a6e8d9fad128557b31c471d81c60dd1576729c5ab2841998c457a3467ce4469",
-      "download_count": 62,
+      "download_count": 167,
       "created_at": "2026-10-05T14:11:14Z",
       "updated_at": "2026-10-05T14:11:15Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 551923,
       "digest": "sha256:25a908651b7581cf079b889428f79af38e5a08bd62260a3d1c24ee5002674cf7",
-      "download_count": 14,
+      "download_count": 27,
       "created_at": "2026-10-05T14:12:02Z",
       "updated_at": "2026-10-05T14:12:02Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 598547,
       "digest": "sha256:7c3e7183e4178e5c1bb68ef714fbf2ac1cef04d4d7fc751d645d290ac0041d7a",
-      "download_count": 34,
+      "download_count": 120,
       "created_at": "2026-10-05T14:11:54Z",
       "updated_at": "2026-10-05T14:11:54Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 648159,
       "digest": "sha256:fa5247dfe4d076843dac7feacc7cc954df2961da352292bc4bb04132fec1fea2",
-      "download_count": 9,
+      "download_count": 25,
       "created_at": "2026-10-05T14:11:31Z",
       "updated_at": "2026-10-05T14:11:31Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 632471,
       "digest": "sha256:d9b3157e442fe5dda3ef15226a24531f454685cccc7a6f5f6351885fdbc99f03",
-      "download_count": 6,
+      "download_count": 15,
       "created_at": "2026-10-05T14:11:41Z",
       "updated_at": "2026-10-05T14:11:42Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-arm-unknown-linux-gnueabihf.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 668214,
       "digest": "sha256:84a42407a701d0319b54c20b2cba6920e34a7e821a066c76e49a2fc4d4d5347c",
-      "download_count": 5,
+      "download_count": 13,
       "created_at": "2026-10-05T14:11:23Z",
       "updated_at": "2026-10-05T14:11:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-arm-unknown-linux-musleabihf.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 552154,
       "digest": "sha256:23a67b3ca43e9c50bdb48a839ad8dfd60762c4c914fbdfc4a78a2c5e623fe6bc",
-      "download_count": 17,
+      "download_count": 23,
       "created_at": "2026-10-05T14:12:58Z",
       "updated_at": "2026-10-05T14:12:58Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 678771,
       "digest": "sha256:e59fa51db4cbfcddba65f29538abc0d781e1e1f56c9b0b24c57b2dc93bdd72a3",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-10-05T14:11:26Z",
       "updated_at": "2026-10-05T14:11:26Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-unknown-linux-gnu.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 711242,
       "digest": "sha256:89e98670a3dd3c84dde5af39d45352479586be47856efd29243d6b680016c8ca",
-      "download_count": 7,
+      "download_count": 14,
       "created_at": "2026-10-05T14:11:32Z",
       "updated_at": "2026-10-05T14:11:33Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-i686-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 623157,
       "digest": "sha256:60ad42427f09647ea2f301186282c083d75a2f1c5d82e7b9d89f7524f1b9fd57",
-      "download_count": 60,
+      "download_count": 164,
       "created_at": "2026-10-05T14:13:02Z",
       "updated_at": "2026-10-05T14:13:03Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 594579,
       "digest": "sha256:c6b6d228a86250d355eba41d254585cbbe6ba5c1887e0a8df9ccda2e66836a3d",
-      "download_count": 245,
+      "download_count": 521,
       "created_at": "2026-10-05T14:12:12Z",
       "updated_at": "2026-10-05T14:12:13Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-pc-windows-msvc.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 651129,
       "digest": "sha256:60b70eb01e1a4dce1bf56a38393e1e2c2e79ed95a4ba711feb5c993f382604ab",
-      "download_count": 295,
+      "download_count": 1033,
       "created_at": "2026-10-05T14:11:21Z",
       "updated_at": "2026-10-05T14:11:22Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 705869,
       "digest": "sha256:2c64127c1a0fc3bc58e365060b4d8a09e4632082e4dea843b8e4afb6a7b09f36",
-      "download_count": 103,
+      "download_count": 437,
       "created_at": "2026-10-05T14:11:36Z",
       "updated_at": "2026-10-05T14:11:36Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine-v1.21.0-x86_64-unknown-linux-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 554174,
       "digest": "sha256:5697aff9529f7c6287bfeb9be6cbeb9dc99bf53bb469dd5f471da5f157766958",
-      "download_count": 20,
+      "download_count": 25,
       "created_at": "2026-10-05T14:11:21Z",
       "updated_at": "2026-10-05T14:11:22Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 509066,
       "digest": "sha256:baeac4dae4cbc25b1eb57d2325422ae4516627fd2e9b0966431349f6481d6102",
-      "download_count": 6,
+      "download_count": 11,
       "created_at": "2026-10-05T14:11:54Z",
       "updated_at": "2026-10-05T14:11:54Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_arm64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 541864,
       "digest": "sha256:dfb4f3548a1d83d62b1f4899cd2806aadfec712e675dc70ec1046d0f0c3d47d2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-05T14:11:41Z",
       "updated_at": "2026-10-05T14:11:42Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_armhf.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 591058,
       "digest": "sha256:f9ef00478beffb61716c8477b250e01dd7843f2099002803474bba07e924dc68",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-05T14:11:26Z",
       "updated_at": "2026-10-05T14:11:26Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.21.0/hyperfine_1.21.0_i686.deb"
@@ -798,14 +798,14 @@
   "body": "## Features\r\n\r\n- Add support for minutes and hours in `--time-unit`, as well as short and plural aliases such as `ms`, `seconds`, and `min`, see #960 (@sharkdp)\r\n- Expose `$HYPERFINE_ITERATION` to `--prepare` and `--conclude` commands, see #781 and #807 (@willcl-ark)\r\n- Show elapsed time during the initial benchmark run, see #416 and #581 (@devonhollowood)\r\n- Add colors to `--help` output, see #841 (@starsep)\r\n\r\n## Changes\r\n\r\n- With `--parameter-scan` or `--parameter-list`, `--reference` now selects an existing benchmark by its full displayed name instead of running a separate reference command. The name must match exactly one benchmark; use `--command-name` instead of `--reference-name` in this mode, see #847 and #979 (@sharkdp)\r\n- Format times in CSV exports with six decimal places, see #966 and #972 (@sharkdp)\r\n- Update dependencies and raise the minimum supported Rust version to 1.97, see #934 (@sharkdp)\r\n\r\n## Bugfixes\r\n\r\n- Make Markdown, AsciiDoc, and Org-mode exports compare against the specified reference, and label faster and slower results in command-sorted comparisons with `--reference`, see #811 and #979 (@sharkdp)\r\n- Reject zero values for `--runs`, `--min-runs`, and `--max-runs` instead of allowing invalid run counts, see #923 (@VXNCXNX, @sharkdp)\r\n- Reject negative parameter-scan steps before expanding ranges, avoiding hangs and excessive memory use, see #951 (@Likio3000)\r\n- Preserve existing export files when command options are invalid, see #950 (@Likio3000)\r\n- Truncate export files when rewriting results to avoid leaving trailing bytes, see #970 (@sharkdp)\r\n- Preserve backticks in command names in Markdown exports, see #947 (@Likio3000)\r\n- Handle broken output pipes gracefully instead of panicking, see #932 (@Mathjk)\r\n- Collect peak memory usage separately for each command on Unix, so commands no longer inherit the peak memory usage of earlier commands, see #965 (@sharkdp)\r\n- Preserve 100-nanosecond precision in Windows CPU times, see #964 (@sharkdp)\r\n- Python scripts: Correct the interpretation of Welch's t-test results, see #943 (@sharkdp)\r\n\r\n## Other\r\n\r\n- Build binaries for Windows ARM64 and Linux ARM64 musl, see #922 and #924 (@meop)\r\n- Refactor measurement, statistics, and formatting code to use typed quantities, see #954, #958, #961, #967, #969, #971, and #976 (@sharkdp)\r\n- Improve documentation and examples, including comparisons across Git branches, iteration variables, reference commands, and selective failure handling, see #899, #900, #929, and #940 (@xfocus3, @ded-furby, @Likio3000, @sharkdp)\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/403791235/reactions",
-    "total_count": 8,
-    "+1": 1,
+    "total_count": 15,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
-    "hooray": 5,
+    "hooray": 7,
     "confused": 0,
-    "heart": 1,
-    "rocket": 1,
+    "heart": 3,
+    "rocket": 2,
     "eyes": 0
   },
   "mentions_count": 10
