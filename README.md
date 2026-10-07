@@ -14,25 +14,25 @@ x install hyperfine
 
 ## Code insight
 
-Total: **8,435** lines of code across **56** files in the top 5 languages.
+Total: **8,579** lines of code across **58** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 6,910 | 154 | 888 | 42 |
+| Rust | 7,041 | 161 | 813 | 44 |
 | Svg | 955 | 1 | 1 | 1 |
-| Python | 495 | 57 | 111 | 8 |
-| Toml | 75 | 2 | 12 | 2 |
-| Markdown | 0 | 582 | 276 | 3 |
+| Python | 506 | 57 | 115 | 8 |
+| Toml | 77 | 2 | 13 | 2 |
+| Markdown | 0 | 642 | 304 | 3 |
 
 ## OpenSSF Scorecard
 
-Overall score: **3.1 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 8/22 approved changesets -- score normalized to 3
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -41,28 +41,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.21.0` (2026-10-05)
+- **Latest**: `v2.0.0-alpha.1` (2026-10-05)
 - **Last commit**: 2026-10-06
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 28,951 · **Forks**: 518 · **Open issues**: 283 · **Contributors**: 123
+- **Stars**: 28,953 · **Forks**: 518 · **Open issues**: 284 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 527 · **Open PRs**: 15 · **Closed issues**: 240 · **Open issues**: 43 · **Commits**: 1192
+- **Releases**: 28 · **Merged PRs**: 533 · **Open PRs**: 14 · **Closed issues**: 247 · **Open issues**: 37 · **Commits**: 1201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 46 | 4 | 1 | 1 | 121 |
-| last60d | 2026-08-07 | 1 | 49 | 6 | 1 | 2 | 121 |
-| 90d | 2026-07-08 | 1 | 50 | 9 | 2 | 2 | 123 |
-| last180d | 2026-04-09 | 1 | 53 | 10 | 2 | 5 | 128 |
-| 360d | 2025-10-11 | 2 | 60 | 12 | 5 | 8 | 135 |
-| last720d | 2024-10-16 | 3 | 86 | 15 | 19 | 15 | 225 |
+| 30d | 2026-09-07 | 2 | 52 | 3 | 1 | 2 | 130 |
+| last60d | 2026-08-08 | 2 | 55 | 5 | 1 | 3 | 130 |
+| 90d | 2026-07-09 | 2 | 56 | 8 | 2 | 3 | 132 |
+| last180d | 2026-04-10 | 2 | 59 | 9 | 2 | 6 | 137 |
+| 360d | 2025-10-12 | 3 | 66 | 11 | 5 | 9 | 144 |
+| last720d | 2024-10-17 | 4 | 92 | 14 | 21 | 14 | 234 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:55:26Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:29:12Z._
