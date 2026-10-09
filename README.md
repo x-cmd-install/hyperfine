@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 28,960 · **Forks**: 518 · **Open issues**: 284 · **Contributors**: 123
+- **Stars**: 29,011 · **Forks**: 519 · **Open issues**: 284 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 542 · **Open PRs**: 14 · **Closed issues**: 247 · **Open issues**: 37 · **Commits**: 1212
+- **Releases**: 30 · **Merged PRs**: 542 · **Open PRs**: 15 · **Closed issues**: 247 · **Open issues**: 37 · **Commits**: 1212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 4 | 61 | 3 | 1 | 2 | 141 |
-| last60d | 2026-08-09 | 4 | 64 | 5 | 1 | 3 | 141 |
-| 90d | 2026-07-10 | 4 | 65 | 8 | 2 | 3 | 143 |
-| last180d | 2026-04-11 | 4 | 68 | 9 | 2 | 6 | 148 |
-| 360d | 2025-10-13 | 5 | 75 | 11 | 5 | 9 | 155 |
-| last720d | 2024-10-18 | 6 | 101 | 14 | 21 | 14 | 245 |
+| 30d | 2026-09-09 | 4 | 61 | 4 | 1 | 2 | 141 |
+| last60d | 2026-08-10 | 4 | 64 | 6 | 1 | 3 | 141 |
+| 90d | 2026-07-11 | 4 | 65 | 9 | 2 | 3 | 143 |
+| last180d | 2026-04-12 | 4 | 68 | 10 | 2 | 6 | 148 |
+| 360d | 2025-10-14 | 5 | 74 | 12 | 5 | 9 | 155 |
+| last720d | 2024-10-19 | 6 | 101 | 15 | 21 | 14 | 245 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:47:42Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:39:16Z._
