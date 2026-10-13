@@ -14,11 +14,11 @@ x install hyperfine
 
 ## Code insight
 
-Total: **9,175** lines of code across **60** files in the top 5 languages.
+Total: **9,176** lines of code across **60** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,579 | 175 | 845 | 45 |
+| Rust | 7,580 | 175 | 845 | 45 |
 | Svg | 955 | 1 | 1 | 1 |
 | Python | 530 | 57 | 128 | 8 |
 | Toml | 111 | 2 | 16 | 3 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.0.0` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-12
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 29,077 · **Forks**: 522 · **Open issues**: 285 · **Contributors**: 123
+- **Stars**: 29,079 · **Forks**: 523 · **Open issues**: 285 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 542 · **Open PRs**: 16 · **Closed issues**: 247 · **Open issues**: 38 · **Commits**: 1212
+- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 15 · **Closed issues**: 248 · **Open issues**: 37 · **Commits**: 1213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 4 | 61 | 5 | 1 | 3 | 141 |
-| last60d | 2026-08-13 | 4 | 64 | 6 | 1 | 4 | 141 |
-| 90d | 2026-07-14 | 4 | 65 | 9 | 2 | 4 | 141 |
-| last180d | 2026-04-15 | 4 | 68 | 11 | 2 | 7 | 148 |
-| 360d | 2025-10-17 | 5 | 74 | 13 | 5 | 10 | 155 |
-| last720d | 2024-10-22 | 6 | 101 | 16 | 21 | 15 | 245 |
+| 30d | 2026-09-13 | 4 | 62 | 4 | 2 | 2 | 142 |
+| last60d | 2026-08-14 | 4 | 65 | 4 | 2 | 2 | 142 |
+| 90d | 2026-07-15 | 4 | 65 | 8 | 3 | 3 | 142 |
+| last180d | 2026-04-16 | 4 | 69 | 10 | 3 | 6 | 149 |
+| 360d | 2025-10-18 | 5 | 75 | 12 | 6 | 9 | 156 |
+| last720d | 2024-10-23 | 6 | 102 | 15 | 22 | 14 | 246 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:37:02Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:04Z._
