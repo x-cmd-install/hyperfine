@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/8 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,079 · **Forks**: 523 · **Open issues**: 285 · **Contributors**: 124
+- **Stars**: 29,088 · **Forks**: 525 · **Open issues**: 285 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 4 | 62 | 4 | 2 | 2 | 142 |
-| last60d | 2026-08-14 | 4 | 65 | 4 | 2 | 2 | 142 |
-| 90d | 2026-07-15 | 4 | 65 | 8 | 3 | 3 | 142 |
-| last180d | 2026-04-16 | 4 | 69 | 10 | 3 | 6 | 149 |
-| 360d | 2025-10-18 | 5 | 75 | 12 | 6 | 9 | 156 |
-| last720d | 2024-10-23 | 6 | 102 | 15 | 22 | 14 | 246 |
+| 30d | 2026-09-14 | 4 | 62 | 4 | 2 | 2 | 142 |
+| last60d | 2026-08-15 | 4 | 65 | 4 | 2 | 2 | 142 |
+| 90d | 2026-07-16 | 4 | 65 | 6 | 3 | 3 | 142 |
+| last180d | 2026-04-17 | 4 | 69 | 10 | 3 | 6 | 149 |
+| 360d | 2025-10-19 | 5 | 75 | 12 | 6 | 9 | 156 |
+| last720d | 2024-10-24 | 6 | 102 | 15 | 22 | 14 | 246 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:27:04Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:35:57Z._
