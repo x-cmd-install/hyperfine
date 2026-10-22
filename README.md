@@ -30,9 +30,9 @@ Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,137 · **Forks**: 574 · **Open issues**: 285 · **Contributors**: 124
+- **Stars**: 29,139 · **Forks**: 556 · **Open issues**: 285 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 4 | 62 | 14 | 2 | 1 | 142 |
-| last60d | 2026-08-22 | 4 | 63 | 15 | 2 | 2 | 142 |
-| 90d | 2026-07-23 | 4 | 65 | 17 | 3 | 3 | 142 |
-| last180d | 2026-04-24 | 4 | 69 | 21 | 4 | 5 | 149 |
-| 360d | 2025-10-26 | 5 | 75 | 23 | 7 | 8 | 156 |
-| last720d | 2024-10-31 | 6 | 101 | 26 | 23 | 13 | 246 |
+| 30d | 2026-09-22 | 4 | 61 | 14 | 2 | 1 | 142 |
+| last60d | 2026-08-23 | 4 | 63 | 15 | 2 | 2 | 142 |
+| 90d | 2026-07-24 | 4 | 65 | 17 | 3 | 3 | 142 |
+| last180d | 2026-04-25 | 4 | 69 | 21 | 4 | 5 | 149 |
+| 360d | 2025-10-27 | 5 | 75 | 23 | 7 | 8 | 156 |
+| last720d | 2024-11-01 | 6 | 101 | 26 | 23 | 13 | 246 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:16:59Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:19:07Z._

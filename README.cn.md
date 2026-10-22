@@ -30,9 +30,9 @@ x install hyperfine
 
 评分最低的几项:
 
+- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Code-Review** (0/10) — Found 1/24 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install hyperfine
 
 ## 流行度
 
-- **Star**: 29,137 · **Fork**: 574 · **开放 issue**: 285 · **贡献者**: 124
+- **Star**: 29,139 · **Fork**: 556 · **开放 issue**: 285 · **贡献者**: 124
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install hyperfine
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 4 | 62 | 14 | 2 | 1 | 142 |
-| last60d | 2026-08-22 | 4 | 63 | 15 | 2 | 2 | 142 |
-| 90d | 2026-07-23 | 4 | 65 | 17 | 3 | 3 | 142 |
-| last180d | 2026-04-24 | 4 | 69 | 21 | 4 | 5 | 149 |
-| 360d | 2025-10-26 | 5 | 75 | 23 | 7 | 8 | 156 |
-| last720d | 2024-10-31 | 6 | 101 | 26 | 23 | 13 | 246 |
+| 30d | 2026-09-22 | 4 | 61 | 14 | 2 | 1 | 142 |
+| last60d | 2026-08-23 | 4 | 63 | 15 | 2 | 2 | 142 |
+| 90d | 2026-07-24 | 4 | 65 | 17 | 3 | 3 | 142 |
+| last180d | 2026-04-25 | 4 | 69 | 21 | 4 | 5 | 149 |
+| 360d | 2025-10-27 | 5 | 75 | 23 | 7 | 8 | 156 |
+| last720d | 2024-11-01 | 6 | 101 | 26 | 23 | 13 | 246 |
 
 ## Release 资产
 
@@ -99,4 +99,4 @@ hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T05:17:00Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T05:19:07Z._
