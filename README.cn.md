@@ -47,7 +47,7 @@ x install hyperfine
 
 ## 流行度
 
-- **Star**: 29,139 · **Fork**: 556 · **开放 issue**: 285 · **贡献者**: 124
+- **Star**: 29,144 · **Fork**: 536 · **开放 issue**: 285 · **贡献者**: 124
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install hyperfine
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 61 | 14 | 2 | 1 | 142 |
-| last60d | 2026-08-23 | 4 | 63 | 15 | 2 | 2 | 142 |
-| 90d | 2026-07-24 | 4 | 65 | 17 | 3 | 3 | 142 |
-| last180d | 2026-04-25 | 4 | 69 | 21 | 4 | 5 | 149 |
-| 360d | 2025-10-27 | 5 | 75 | 23 | 7 | 8 | 156 |
-| last720d | 2024-11-01 | 6 | 101 | 26 | 23 | 13 | 246 |
+| 30d | 2026-09-23 | 4 | 61 | 14 | 2 | 1 | 142 |
+| last60d | 2026-08-24 | 4 | 63 | 15 | 2 | 2 | 142 |
+| 90d | 2026-07-25 | 4 | 65 | 17 | 3 | 3 | 142 |
+| last180d | 2026-04-26 | 4 | 69 | 21 | 4 | 5 | 149 |
+| 360d | 2025-10-28 | 5 | 75 | 23 | 7 | 8 | 156 |
+| last720d | 2024-11-02 | 6 | 101 | 26 | 23 | 13 | 246 |
 
 ## Release 资产
 
@@ -90,6 +90,25 @@ x install hyperfine
 | [hyperfine_2.0.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_armhf.deb) | 555.6 KiB | `runtime/deb/armhf` |
 | [hyperfine_2.0.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_i686.deb) | 604.5 KiB | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/hyperfine) 上共有 **150** 个发行版报告此项目。**28** 个 ✅ 已是最新上游版本，**110** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `1.20.0` | 🪦 legacy |
+| Debian 14 | `1.20.0` | ⚠️ outdated |
+| Debian 13 | `1.19.0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
+| Arch | `2.0.0` | ✅ latest |
+| Homebrew | `2.0.0` | ✅ latest |
+| Fedora rawhide | `1.20.0` | ⚠️ outdated |
+| Nix unstable | `2.0.0` | ✅ latest |
+| Void | `1.20.0` | ⚠️ outdated |
+| Alpine edge | `2.0.0` | ✅ latest |
+| openSUSE Tumbleweed | `2.0.0` | ✅ latest |
+
 ## 改进这些数据
 
 hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `hyperfine` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +118,4 @@ hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:19:07Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:23:26Z._
