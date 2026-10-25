@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 629294,
       "digest": "sha256:4af87468b6e6fba108388ed5a87dcee9915d448eb5c9088358dd85efd8adc85a",
-      "download_count": 187,
+      "download_count": 193,
       "created_at": "2026-10-07T21:14:23Z",
       "updated_at": "2026-10-07T21:14:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-musl_2.0.0_amd64.deb"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 581002,
       "digest": "sha256:7c6b3f90312482c9c09ebbf9d2947eae2ea4e3d951943b2fa9e0176d98fddbb7",
-      "download_count": 124,
+      "download_count": 129,
       "created_at": "2026-10-07T21:14:09Z",
       "updated_at": "2026-10-07T21:14:09Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-musl_2.0.0_arm64.deb"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 601566,
       "digest": "sha256:d2e22619a38a2d4a36003358ea4d4e9aad7cc861ceedb2605abd381eb5c19196",
-      "download_count": 120,
+      "download_count": 124,
       "created_at": "2026-10-07T21:16:24Z",
       "updated_at": "2026-10-07T21:16:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-musl_2.0.0_armhf.deb"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 646102,
       "digest": "sha256:35856b6f787a41d7f457db7975e608e679f808e84a65a373f00a8b62f1fc136d",
-      "download_count": 118,
+      "download_count": 122,
       "created_at": "2026-10-07T21:14:08Z",
       "updated_at": "2026-10-07T21:14:09Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-musl_2.0.0_i686.deb"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 609501,
       "digest": "sha256:590b839cfea386b384ce0b42d16daf2910277cf30950656194bb3a5f20dea81e",
-      "download_count": 2324,
+      "download_count": 2479,
       "created_at": "2026-10-07T21:13:36Z",
       "updated_at": "2026-10-07T21:13:36Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-aarch64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 587139,
       "digest": "sha256:c2d2568368d32d0f2a000e604e10cd9fa8d98e2d04cb78f2aa7ab1a8c11b8118",
-      "download_count": 315,
+      "download_count": 356,
       "created_at": "2026-10-07T21:14:47Z",
       "updated_at": "2026-10-07T21:14:47Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-aarch64-pc-windows-msvc.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 629185,
       "digest": "sha256:f8244d1e17f8da23ee6b3ae2cdc04a6a185a450f6b74e09bff12e498038fcbc9",
-      "download_count": 2068,
+      "download_count": 2210,
       "created_at": "2026-10-07T21:14:02Z",
       "updated_at": "2026-10-07T21:14:02Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 679032,
       "digest": "sha256:f0591c2cb8f66f2d2624d23979cf96dc99a67cb935f9925c82b9a4e3ffe5b2e1",
-      "download_count": 415,
+      "download_count": 435,
       "created_at": "2026-10-07T21:14:09Z",
       "updated_at": "2026-10-07T21:14:09Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 663375,
       "digest": "sha256:96f4508441f8d0728ac185889467d2799d201d5687acc4ea3194a2b9efafb22a",
-      "download_count": 164,
+      "download_count": 170,
       "created_at": "2026-10-07T21:14:23Z",
       "updated_at": "2026-10-07T21:14:23Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-arm-unknown-linux-gnueabihf.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 698402,
       "digest": "sha256:90678887c054c3f5b51a44f5e6f1448e28dc96f62f360ca5981e86352129a0fa",
-      "download_count": 124,
+      "download_count": 128,
       "created_at": "2026-10-07T21:16:24Z",
       "updated_at": "2026-10-07T21:16:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-arm-unknown-linux-musleabihf.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 589055,
       "digest": "sha256:f52881b288244e40b11a92c9e7e0d88f7aa156c2c9b2032aa25c32debefb0463",
-      "download_count": 100,
+      "download_count": 102,
       "created_at": "2026-10-07T21:15:37Z",
       "updated_at": "2026-10-07T21:15:38Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-i686-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 711983,
       "digest": "sha256:5b455489e8d2ad28c5865d7566c4e80dea8d8ef9b134eb716dc650856e4c332d",
-      "download_count": 68,
+      "download_count": 72,
       "created_at": "2026-10-07T21:14:07Z",
       "updated_at": "2026-10-07T21:14:07Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-i686-unknown-linux-gnu.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 742363,
       "digest": "sha256:9c5dbdf6385aea4cceb542f61cc6ce5006f81ea71f4e9757cdf91caa821654bf",
-      "download_count": 73,
+      "download_count": 77,
       "created_at": "2026-10-07T21:14:08Z",
       "updated_at": "2026-10-07T21:14:09Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-i686-unknown-linux-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 651858,
       "digest": "sha256:8afe204926afefa406ad320cef0672b739e5f676c623fbd6d43d779bacd684e3",
-      "download_count": 1247,
+      "download_count": 1306,
       "created_at": "2026-10-07T21:15:48Z",
       "updated_at": "2026-10-07T21:15:49Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-x86_64-apple-darwin.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 632670,
       "digest": "sha256:3dec51acee1060908e67948838d6bc0a7aacde0774acebfa4afb220dcf0bc078",
-      "download_count": 3923,
+      "download_count": 4210,
       "created_at": "2026-10-07T21:14:57Z",
       "updated_at": "2026-10-07T21:14:58Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-x86_64-pc-windows-msvc.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 683634,
       "digest": "sha256:ae2beda2ac99c098427e4f755244552daf20e514422889cca6d44421e2d93c87",
-      "download_count": 11216,
+      "download_count": 12451,
       "created_at": "2026-10-07T21:13:48Z",
       "updated_at": "2026-10-07T21:13:48Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-x86_64-unknown-linux-gnu.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 737116,
       "digest": "sha256:38e59087bd65520930a13cf513d8a493b7043741e8ad62349a8a9929eb61bc5c",
-      "download_count": 8396,
+      "download_count": 9022,
       "created_at": "2026-10-07T21:14:23Z",
       "updated_at": "2026-10-07T21:14:24Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine-v2.0.0-x86_64-unknown-linux-musl.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 581534,
       "digest": "sha256:880ba127c51c7b9debde2d830fe27dedbfc92cf2885edd44f7dfbe2152f72afe",
-      "download_count": 728,
+      "download_count": 745,
       "created_at": "2026-10-07T21:13:48Z",
       "updated_at": "2026-10-07T21:13:48Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_amd64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 534764,
       "digest": "sha256:6f42715421f08f21b125628dab869e727e4f361f431129c73c5e16f01a30fc23",
-      "download_count": 72,
+      "download_count": 77,
       "created_at": "2026-10-07T21:14:02Z",
       "updated_at": "2026-10-07T21:14:02Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_arm64.deb"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 568962,
       "digest": "sha256:4fb9f0693f3f45609ac7fc6b73ac8a10d8b0bc483bfa5af26f21985a86863caf",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-07T21:14:23Z",
       "updated_at": "2026-10-07T21:14:23Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_armhf.deb"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 618970,
       "digest": "sha256:5eb09f67e9177ae582d00767a74d49007a1b92187e6c485cc1d1f09a4660bf77",
-      "download_count": 20,
+      "download_count": 24,
       "created_at": "2026-10-07T21:14:07Z",
       "updated_at": "2026-10-07T21:14:08Z",
       "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_i686.deb"

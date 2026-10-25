@@ -1,3 +1,13 @@
+- repo: crux_37
+  subrepo: contrib
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: A command-line benchmarking tool
+  maintainers:
+    - tbier@posteo.de
 - repo: aerynos
   srcname: hyperfine
   visiblename: hyperfine
@@ -86,13 +96,13 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
-- repo: crux_37
+- repo: crux_38
   subrepo: contrib
   srcname: hyperfine
   visiblename: hyperfine
-  version: 1.19.0
+  version: 2.0.0
   origversion: null
-  status: outdated
+  status: newest
   summary: A command-line benchmarking tool
   maintainers:
     - tbier@posteo.de
@@ -226,6 +236,17 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.21.0
+  origversion: 1.21.0-1
+  status: outdated
+  summary: A command-line benchmarking tool
+  licenses:
+    - Apache-2.0 OR MIT
 - repo: alpine_3_20
   subrepo: community
   srcname: hyperfine
@@ -769,16 +790,6 @@
   origversion: null
   status: newest
   summary: A command-line benchmarking tool
-- repo: crux_38
-  subrepo: contrib
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
-  summary: A command-line benchmarking tool
-  maintainers:
-    - tbier@posteo.de
 - repo: debian_12
   subrepo: bookworm/main
   srcname: rust-hyperfine
@@ -930,24 +941,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - sys-apps
-- repo: openmandriva_6_0
-  subrepo: main/release
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - rust-hyperfine-debuginfo
-    - rust-hyperfine-debugsource
-  visiblename: rust-hyperfine
-  version: 1.9.0
-  origversion: 1.9.0-2
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - bero@lindev.ch
-  licenses:
-    - MIT or ASL 2.0
-  categories:
-    - Unspecified
 - repo: fedora_39
   subrepo: release
   srcname: rust-hyperfine
@@ -964,6 +957,17 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: 2.0.0-1
+  status: newest
+  summary: A command-line benchmarking tool
+  licenses:
+    - Apache-2.0 OR MIT
 - repo: fedora_39
   subrepo: updates
   srcname: rust-hyperfine
@@ -981,22 +985,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - rust-hyperfine-debuginfo
-    - rust-hyperfine-debugsource
-  visiblename: rust-hyperfine
-  version: 1.19.0
-  origversion: 1.19.0-1.fc40
-  status: outdated
-  summary: Command-line benchmarking tool
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: rust-hyperfine
   binnames:
@@ -1007,6 +995,22 @@
   version: 1.18.0
   origversion: 1.18.0-2.fc40
   status: legacy
+  summary: Command-line benchmarking tool
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - rust-hyperfine-debuginfo
+    - rust-hyperfine-debugsource
+  visiblename: rust-hyperfine
+  version: 1.19.0
+  origversion: 1.19.0-1.fc40
+  status: outdated
   summary: Command-line benchmarking tool
   licenses:
     - MIT OR Apache-2.0
@@ -1077,22 +1081,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - rust-hyperfine-debuginfo
-    - rust-hyperfine-debugsource
-  visiblename: rust-hyperfine
-  version: 1.19.0
-  origversion: 1.19.0-4.fc43
-  status: legacy
-  summary: Command-line benchmarking tool
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: rust-hyperfine
   binnames:
@@ -1108,20 +1096,22 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: raspbian_testing
-  subrepo: main
+- repo: fedora_43
+  subrepo: release
   srcname: rust-hyperfine
   binnames:
     - hyperfine
+    - rust-hyperfine-debuginfo
+    - rust-hyperfine-debugsource
   visiblename: rust-hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-1
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - sylvestre@debian.org
+  version: 1.19.0
+  origversion: 1.19.0-4.fc43
+  status: legacy
+  summary: Command-line benchmarking tool
+  licenses:
+    - MIT OR Apache-2.0
   categories:
-    - misc
+    - Unspecified
 - repo: fedora_44
   subrepo: release
   srcname: rust-hyperfine
@@ -1252,6 +1242,32 @@
     - sylvestre@debian.org
   categories:
     - misc
+- repo: nix_stable_24_11
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - figsoda@pm.me
+    - aseipp@pobox.com
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: nix_stable_25_05
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - figsoda@pm.me
+    - aseipp@pobox.com
+  licenses:
+    - Apache-2.0
+    - MIT
 - repo: liguros_stable
   srcname: app-benchmarks/hyperfine
   visiblename: app-benchmarks/hyperfine
@@ -1334,28 +1350,6 @@
   licenses:
     - APACHE
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.21.0
-  origversion: 1.21.0-1
-  status: outdated
-  summary: A command-line benchmarking tool
-  licenses:
-    - Apache-2.0 OR MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: 2.0.0-1
-  status: newest
-  summary: A command-line benchmarking tool
-  licenses:
-    - Apache-2.0 OR MIT
 - repo: msys2_clang64
   srcname: mingw-w64-hyperfine
   binname: mingw-w64-clang-x86_64-hyperfine
@@ -1390,32 +1384,6 @@
   srcname: hyperfine
   visiblename: hyperfine
   version: 1.18.0
-  origversion: null
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - figsoda@pm.me
-    - aseipp@pobox.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_24_11
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 1.19.0
-  origversion: null
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - figsoda@pm.me
-    - aseipp@pobox.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: nix_stable_25_05
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 1.19.0
   origversion: null
   status: outdated
   summary: Command-line benchmarking tool
@@ -1476,6 +1444,24 @@
     - ports@openbsd.org
   categories:
     - benchmarks
+- repo: openmandriva_6_0
+  subrepo: main/release
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - rust-hyperfine-debuginfo
+    - rust-hyperfine-debugsource
+  visiblename: rust-hyperfine
+  version: 1.9.0
+  origversion: 1.9.0-2
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - bero@lindev.ch
+  licenses:
+    - MIT or ASL 2.0
+  categories:
+    - Unspecified
 - repo: openmandriva_rolling
   subrepo: main/release
   srcname: rust-hyperfine
@@ -1577,7 +1563,7 @@
   licenses:
     - Apache-2.0 OR MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-hyperfine
   binnames:
     - hyperfine
@@ -1591,7 +1577,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-hyperfine
   binnames:
     - hyperfine
@@ -1676,6 +1662,20 @@
   visiblename: rust-hyperfine
   version: 1.19.0
   origversion: 1.19.0-1
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+  visiblename: rust-hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-1
   status: outdated
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
@@ -1825,20 +1825,6 @@
   maintainers:
     - termux@github
 - repo: ubuntu_22_04
-  subrepo: jammy/universe
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-  visiblename: rust-hyperfine
-  version: 1.12.0
-  origversion: 1.12.0-3
-  status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - sylvestre@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_22_04
   subrepo: jammy-updates/universe
   srcname: rust-hyperfine
   binnames:
@@ -1849,6 +1835,20 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+    - sylvestre@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_22_04
+  subrepo: jammy/universe
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+  visiblename: rust-hyperfine
+  version: 1.12.0
+  origversion: 1.12.0-3
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
     - sylvestre@debian.org
   categories:
     - universe/misc
