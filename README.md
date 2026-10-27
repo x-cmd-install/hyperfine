@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,151 · **Forks**: 552 · **Open issues**: 285 · **Contributors**: 124
+- **Stars**: 29,158 · **Forks**: 568 · **Open issues**: 285 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 27 · **Closed issues**: 249 · **Open issues**: 36 · **Commits**: 1213
+- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 29 · **Closed issues**: 249 · **Open issues**: 36 · **Commits**: 1213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 61 | 15 | 2 | 1 | 142 |
-| last60d | 2026-08-27 | 4 | 63 | 16 | 2 | 2 | 142 |
-| 90d | 2026-07-28 | 4 | 65 | 18 | 3 | 3 | 142 |
-| last180d | 2026-04-29 | 4 | 69 | 22 | 4 | 5 | 148 |
-| 360d | 2025-10-31 | 5 | 75 | 24 | 7 | 8 | 156 |
-| last720d | 2024-11-05 | 6 | 101 | 27 | 23 | 13 | 246 |
+| 30d | 2026-09-27 | 4 | 61 | 17 | 2 | 1 | 142 |
+| last60d | 2026-08-28 | 4 | 63 | 18 | 2 | 2 | 142 |
+| 90d | 2026-07-29 | 4 | 65 | 20 | 3 | 3 | 142 |
+| last180d | 2026-04-30 | 4 | 69 | 24 | 4 | 5 | 148 |
+| 360d | 2025-11-01 | 5 | 75 | 26 | 7 | 8 | 156 |
+| last720d | 2024-11-06 | 6 | 101 | 29 | 23 | 13 | 246 |
 
 ## Release assets
 
@@ -92,12 +92,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **150** distros on [repology.org](https://repology.org/project/hyperfine). **28** are ✅ on the latest upstream release, **110** are ⚠️ on an older version.
+Reported by **148** distros on [repology.org](https://repology.org/project/hyperfine). **28** are ✅ on the latest upstream release, **108** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `1.20.0` | 🪦 legacy |
-| Debian 14 | `1.20.0` | ⚠️ outdated |
 | Debian 13 | `1.19.0` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
@@ -118,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:19:29Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:39:27Z._
