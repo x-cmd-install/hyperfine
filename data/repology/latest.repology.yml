@@ -1,3 +1,31 @@
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - hyperfine-scripts
+  visiblename: rust-hyperfine
+  version: 2.0.0
+  origversion: 2.0.0-2
+  status: newest
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: liguros_stable
+  srcname: app-benchmarks/hyperfine
+  visiblename: app-benchmarks/hyperfine
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: A command-line benchmarking tool
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
+  categories:
+    - app-benchmarks
 - repo: aerynos
   srcname: hyperfine
   visiblename: hyperfine
@@ -21,21 +49,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - hyperfine-scripts
-  visiblename: rust-hyperfine
-  version: 2.0.0
-  origversion: 2.0.0-2
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - sylvestre@debian.org
-  categories:
-    - misc
 - repo: alpine_3_17
   subrepo: community
   srcname: hyperfine
@@ -526,6 +539,16 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
+- repo: crux_38
+  subrepo: contrib
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: null
+  status: newest
+  summary: A command-line benchmarking tool
+  maintainers:
+    - tbier@posteo.de
 - repo: alpine_3_24
   subrepo: community
   srcname: hyperfine
@@ -796,16 +819,6 @@
   summary: A command-line benchmarking tool
   maintainers:
     - tbier@posteo.de
-- repo: crux_38
-  subrepo: contrib
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
-  summary: A command-line benchmarking tool
-  maintainers:
-    - tbier@posteo.de
 - repo: debian_12
   subrepo: bookworm/main
   srcname: rust-hyperfine
@@ -949,22 +962,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - rust-hyperfine-debuginfo
-    - rust-hyperfine-debugsource
-  visiblename: rust-hyperfine
-  version: 1.19.0
-  origversion: 1.19.0-1.fc40
-  status: outdated
-  summary: Command-line benchmarking tool
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: rust-hyperfine
   binnames:
@@ -980,17 +977,17 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_41
-  subrepo: release
+- repo: fedora_40
+  subrepo: updates
   srcname: rust-hyperfine
   binnames:
     - hyperfine
     - rust-hyperfine-debuginfo
     - rust-hyperfine-debugsource
   visiblename: rust-hyperfine
-  version: 1.18.0
-  origversion: 1.18.0-4.fc41
-  status: legacy
+  version: 1.19.0
+  origversion: 1.19.0-1.fc40
+  status: outdated
   summary: Command-line benchmarking tool
   licenses:
     - MIT OR Apache-2.0
@@ -1012,35 +1009,22 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_42
-  subrepo: updates
+- repo: fedora_41
+  subrepo: release
   srcname: rust-hyperfine
   binnames:
     - hyperfine
     - rust-hyperfine-debuginfo
     - rust-hyperfine-debugsource
   visiblename: rust-hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-1.fc42
-  status: outdated
+  version: 1.18.0
+  origversion: 1.18.0-4.fc41
+  status: legacy
   summary: Command-line benchmarking tool
   licenses:
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: liguros_stable
-  srcname: app-benchmarks/hyperfine
-  visiblename: app-benchmarks/hyperfine
-  version: 1.19.0
-  origversion: null
-  status: outdated
-  summary: A command-line benchmarking tool
-  maintainers:
-    - fallback-mnt-liguros@repology
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
-  categories:
-    - app-benchmarks
 - repo: fedora_42
   subrepo: release
   srcname: rust-hyperfine
@@ -1057,7 +1041,21 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: fedora_43
+- repo: liguros_develop
+  srcname: app-benchmarks/hyperfine
+  visiblename: app-benchmarks/hyperfine
+  version: 1.20.0
+  origversion: null
+  status: legacy
+  summary: A command-line benchmarking tool
+  maintainers:
+    - holger@applied-asynchrony.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-3.0'
+  categories:
+    - app-benchmarks
+- repo: fedora_42
   subrepo: updates
   srcname: rust-hyperfine
   binnames:
@@ -1066,7 +1064,7 @@
     - rust-hyperfine-debugsource
   visiblename: rust-hyperfine
   version: 1.20.0
-  origversion: 1.20.0-1.fc43
+  origversion: 1.20.0-1.fc42
   status: outdated
   summary: Command-line benchmarking tool
   licenses:
@@ -1084,6 +1082,22 @@
   version: 1.19.0
   origversion: 1.19.0-4.fc43
   status: legacy
+  summary: Command-line benchmarking tool
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - rust-hyperfine-debuginfo
+    - rust-hyperfine-debugsource
+  visiblename: rust-hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-1.fc43
+  status: outdated
   summary: Command-line benchmarking tool
   licenses:
     - MIT OR Apache-2.0
@@ -1205,20 +1219,6 @@
   origversion: null
   status: rolling
   summary: Command-line benchmarking tool
-- repo: liguros_develop
-  srcname: app-benchmarks/hyperfine
-  visiblename: app-benchmarks/hyperfine
-  version: 1.20.0
-  origversion: null
-  status: legacy
-  summary: A command-line benchmarking tool
-  maintainers:
-    - holger@applied-asynchrony.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-3.0'
-  categories:
-    - app-benchmarks
 - repo: liguros_develop
   srcname: app-benchmarks/hyperfine
   visiblename: app-benchmarks/hyperfine
@@ -1424,15 +1424,6 @@
     - Apache-2.0 OR MIT
   categories:
     - Development/Other
-- repo: scoop
-  subrepo: main
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
-  licenses:
-    - Apache-2.0|MIT
 - repo: openbsd
   srcname: benchmarks/hyperfine
   binname: hyperfine
@@ -1564,7 +1555,7 @@
   licenses:
     - Apache-2.0 OR MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: rust-hyperfine
   binnames:
     - hyperfine
@@ -1578,7 +1569,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: rust-hyperfine
   binnames:
     - hyperfine
@@ -1702,6 +1693,15 @@
     - Apache-2.0 OR MIT
   categories:
     - Development/Other
+- repo: scoop
+  subrepo: main
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0|MIT
 - repo: slackbuilds
   srcname: system/hyperfine
   visiblename: system/hyperfine
