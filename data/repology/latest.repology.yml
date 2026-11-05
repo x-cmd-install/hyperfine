@@ -1,31 +1,3 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - hyperfine-scripts
-  visiblename: rust-hyperfine
-  version: 2.0.0
-  origversion: 2.0.0-2
-  status: newest
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - sylvestre@debian.org
-  categories:
-    - misc
-- repo: liguros_stable
-  srcname: app-benchmarks/hyperfine
-  visiblename: app-benchmarks/hyperfine
-  version: 1.19.0
-  origversion: null
-  status: outdated
-  summary: A command-line benchmarking tool
-  maintainers:
-    - fallback-mnt-liguros@repology
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
-  categories:
-    - app-benchmarks
 - repo: aerynos
   srcname: hyperfine
   visiblename: hyperfine
@@ -140,177 +112,8 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-fish-completion
-  visiblename: hyperfine-fish-completion
-  version: 1.16.1
-  origversion: 1.16.1-r0
-  status: outdated
-  summary: Fish completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_18
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-zsh-completion
-  visiblename: hyperfine-zsh-completion
-  version: 1.16.1
-  origversion: 1.16.1-r0
-  status: outdated
-  summary: Zsh completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-bash-completion
-  visiblename: hyperfine-bash-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Bash completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-doc
-  visiblename: hyperfine-doc
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool (documentation)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-fish-completion
-  visiblename: hyperfine-fish-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Fish completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_19
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-zsh-completion
-  visiblename: hyperfine-zsh-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Zsh completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-bash-completion
-  visiblename: hyperfine-bash-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Bash completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-doc
-  visiblename: hyperfine-doc
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool (documentation)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-fish-completion
-  visiblename: hyperfine-fish-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Fish completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_20
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-zsh-completion
-  visiblename: hyperfine-zsh-completion
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Zsh completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_21
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.18.0
-  origversion: 1.18.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: artix
-  subrepo: galaxy
+- repo: arch
+  subrepo: extra
   srcname: hyperfine
   binname: hyperfine
   visiblename: hyperfine
@@ -320,6 +123,175 @@
   summary: A command-line benchmarking tool
   licenses:
     - Apache-2.0 OR MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-fish-completion
+  visiblename: hyperfine-fish-completion
+  version: 1.16.1
+  origversion: 1.16.1-r0
+  status: outdated
+  summary: Fish completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_18
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-zsh-completion
+  visiblename: hyperfine-zsh-completion
+  version: 1.16.1
+  origversion: 1.16.1-r0
+  status: outdated
+  summary: Zsh completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-bash-completion
+  visiblename: hyperfine-bash-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Bash completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-doc
+  visiblename: hyperfine-doc
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-fish-completion
+  visiblename: hyperfine-fish-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Fish completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_19
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-zsh-completion
+  visiblename: hyperfine-zsh-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Zsh completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-bash-completion
+  visiblename: hyperfine-bash-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Bash completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-doc
+  visiblename: hyperfine-doc
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-fish-completion
+  visiblename: hyperfine-fish-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Fish completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_20
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-zsh-completion
+  visiblename: hyperfine-zsh-completion
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Zsh completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_21
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.18.0
+  origversion: 1.18.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
 - repo: alpine_3_21
   subrepo: community
   srcname: hyperfine
@@ -398,157 +370,163 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
-- repo: alpine_3_22
-  subrepo: community
+- repo: altsisyphus
   srcname: hyperfine
-  binname: hyperfine-doc
-  visiblename: hyperfine-doc
-  version: 1.19.0
-  origversion: 1.19.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool (documentation)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-fish-completion
-  visiblename: hyperfine-fish-completion
-  version: 1.19.0
-  origversion: 1.19.0-r0
-  status: outdated
-  summary: Fish completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_22
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-zsh-completion
-  visiblename: hyperfine-zsh-completion
-  version: 1.19.0
-  origversion: 1.19.0-r0
-  status: outdated
-  summary: Zsh completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: chimera
-  subrepo: main
-  srcname: hyperfine
-  binname: hyperfine
+  binnames:
+    - hyperfine
   visiblename: hyperfine
   version: 1.20.0
-  origversion: 1.20.0-r0
+  origversion: 1.20.0-alt1
   status: outdated
-  summary: Command-line benchmarking tool
-  licenses:
-    - MIT OR Apache-2.0
-- repo: alpine_3_23
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-bash-completion
-  visiblename: hyperfine-bash-completion
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Bash completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-doc
-  visiblename: hyperfine-doc
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool (documentation)
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-fish-completion
-  visiblename: hyperfine-fish-completion
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Fish completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_23
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-zsh-completion
-  visiblename: hyperfine-zsh-completion
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Zsh completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: alpine_3_24
-  subrepo: community
-  srcname: hyperfine
-  binname: hyperfine-bash-completion
-  visiblename: hyperfine-bash-completion
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Bash completions for hyperfine
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND MIT
-- repo: crux_38
-  subrepo: contrib
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
   summary: A command-line benchmarking tool
   maintainers:
-    - tbier@posteo.de
+    - obirvalger@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Tools
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-doc
+  visiblename: hyperfine-doc
+  version: 1.19.0
+  origversion: 1.19.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-fish-completion
+  visiblename: hyperfine-fish-completion
+  version: 1.19.0
+  origversion: 1.19.0-r0
+  status: outdated
+  summary: Fish completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_22
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-zsh-completion
+  visiblename: hyperfine-zsh-completion
+  version: 1.19.0
+  origversion: 1.19.0-r0
+  status: outdated
+  summary: Zsh completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-bash-completion
+  visiblename: hyperfine-bash-completion
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Bash completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-doc
+  visiblename: hyperfine-doc
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool (documentation)
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-fish-completion
+  visiblename: hyperfine-fish-completion
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Fish completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_23
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-zsh-completion
+  visiblename: hyperfine-zsh-completion
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Zsh completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: alpine_3_24
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
+- repo: aosc
+  srcname: app-devel/hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.20.0
+  origversion: null
+  status: outdated
+  summary: A command-line benchmarking tool
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: alpine_3_24
+  subrepo: community
+  srcname: hyperfine
+  binname: hyperfine-bash-completion
+  visiblename: hyperfine-bash-completion
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Bash completions for hyperfine
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND MIT
 - repo: alpine_3_24
   subrepo: community
   srcname: hyperfine
@@ -575,17 +553,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND MIT
-- repo: chimera
-  subrepo: main
-  srcname: hyperfine
-  binname: hyperfine-bashcomp
-  visiblename: hyperfine-bashcomp
-  version: 1.20.0
-  origversion: 1.20.0-r0
-  status: outdated
-  summary: Command-line benchmarking tool (bash completions)
-  licenses:
-    - MIT OR Apache-2.0
 - repo: alpine_3_24
   subrepo: community
   srcname: hyperfine
@@ -679,44 +646,6 @@
     - Apache-2.0
   categories:
     - Development/Tools
-- repo: altsisyphus
-  srcname: hyperfine
-  binnames:
-    - hyperfine
-  visiblename: hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-alt1
-  status: outdated
-  summary: A command-line benchmarking tool
-  maintainers:
-    - obirvalger@altlinux.org
-  licenses:
-    - Apache-2.0
-  categories:
-    - Development/Tools
-- repo: aosc
-  srcname: app-devel/hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 1.20.0
-  origversion: null
-  status: outdated
-  summary: A command-line benchmarking tool
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
-- repo: arch
-  subrepo: extra
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: 2.0.0-1
-  status: newest
-  summary: A command-line benchmarking tool
-  licenses:
-    - Apache-2.0 OR MIT
 - repo: aur
   srcname: hyperfine-git
   binname: hyperfine-git
@@ -730,18 +659,39 @@
   licenses:
     - Apache-2.0
     - MIT
-- repo: deepin_25
+- repo: artix
+  subrepo: galaxy
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: 2.0.0-1
+  status: newest
+  summary: A command-line benchmarking tool
+  licenses:
+    - Apache-2.0 OR MIT
+- repo: chimera
   subrepo: main
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-  visiblename: rust-hyperfine
-  version: 1.18.0
-  origversion: 1.18.0-2
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-r0
   status: outdated
-  maintainers:
-    - pkg-rust-maintainers@alioth-lists.debian.net
-    - sylvestre@debian.org
+  summary: Command-line benchmarking tool
+  licenses:
+    - MIT OR Apache-2.0
+- repo: chimera
+  subrepo: main
+  srcname: hyperfine
+  binname: hyperfine-bashcomp
+  visiblename: hyperfine-bashcomp
+  version: 1.20.0
+  origversion: 1.20.0-r0
+  status: outdated
+  summary: Command-line benchmarking tool (bash completions)
+  licenses:
+    - MIT OR Apache-2.0
 - repo: chimera
   subrepo: main
   srcname: hyperfine
@@ -819,6 +769,16 @@
   summary: A command-line benchmarking tool
   maintainers:
     - tbier@posteo.de
+- repo: crux_38
+  subrepo: contrib
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: null
+  status: newest
+  summary: A command-line benchmarking tool
+  maintainers:
+    - tbier@posteo.de
 - repo: debian_12
   subrepo: bookworm/main
   srcname: rust-hyperfine
@@ -886,6 +846,33 @@
   version: 1.18.0
   origversion: 1.18.0-2
   status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - sylvestre@debian.org
+  categories:
+    - misc
+- repo: deepin_25
+  subrepo: main
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+  visiblename: rust-hyperfine
+  version: 1.18.0
+  origversion: 1.18.0-2
+  status: outdated
+  maintainers:
+    - pkg-rust-maintainers@alioth-lists.debian.net
+    - sylvestre@debian.org
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - hyperfine-scripts
+  visiblename: rust-hyperfine
+  version: 2.0.0
+  origversion: 2.0.0-2
+  status: newest
   maintainers:
     - pkg-rust-maintainers@alioth-lists.debian.net
     - sylvestre@debian.org
@@ -961,6 +948,16 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
+- repo: termux
+  srcname: hyperfine
+  binname: hyperfine
+  visiblename: hyperfine
+  version: 2.0.0
+  origversion: null
+  status: newest
+  summary: A command-line benchmarking tool
+  maintainers:
+    - termux@github
 - repo: fedora_40
   subrepo: release
   srcname: rust-hyperfine
@@ -1041,20 +1038,6 @@
     - MIT OR Apache-2.0
   categories:
     - Unspecified
-- repo: liguros_develop
-  srcname: app-benchmarks/hyperfine
-  visiblename: app-benchmarks/hyperfine
-  version: 1.20.0
-  origversion: null
-  status: legacy
-  summary: A command-line benchmarking tool
-  maintainers:
-    - holger@applied-asynchrony.com
-    - proxy-maint@gentoo.org
-  licenses:
-    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-3.0'
-  categories:
-    - app-benchmarks
 - repo: fedora_42
   subrepo: updates
   srcname: rust-hyperfine
@@ -1072,22 +1055,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: rust-hyperfine
-  binnames:
-    - hyperfine
-    - rust-hyperfine-debuginfo
-    - rust-hyperfine-debugsource
-  visiblename: rust-hyperfine
-  version: 1.19.0
-  origversion: 1.19.0-4.fc43
-  status: legacy
-  summary: Command-line benchmarking tool
-  licenses:
-    - MIT OR Apache-2.0
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: rust-hyperfine
   binnames:
@@ -1098,6 +1065,22 @@
   version: 1.20.0
   origversion: 1.20.0-1.fc43
   status: outdated
+  summary: Command-line benchmarking tool
+  licenses:
+    - MIT OR Apache-2.0
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: rust-hyperfine
+  binnames:
+    - hyperfine
+    - rust-hyperfine-debuginfo
+    - rust-hyperfine-debugsource
+  visiblename: rust-hyperfine
+  version: 1.19.0
+  origversion: 1.19.0-4.fc43
+  status: legacy
   summary: Command-line benchmarking tool
   licenses:
     - MIT OR Apache-2.0
@@ -1219,6 +1202,33 @@
   origversion: null
   status: rolling
   summary: Command-line benchmarking tool
+- repo: liguros_stable
+  srcname: app-benchmarks/hyperfine
+  visiblename: app-benchmarks/hyperfine
+  version: 1.19.0
+  origversion: null
+  status: outdated
+  summary: A command-line benchmarking tool
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-DFS-2016'
+  categories:
+    - app-benchmarks
+- repo: liguros_develop
+  srcname: app-benchmarks/hyperfine
+  visiblename: app-benchmarks/hyperfine
+  version: 1.20.0
+  origversion: null
+  status: legacy
+  summary: A command-line benchmarking tool
+  maintainers:
+    - holger@applied-asynchrony.com
+    - proxy-maint@gentoo.org
+  licenses:
+    - '|| ( Apache-2.0 MIT ) Apache-2.0 BSD-2 BSD ISC MIT MPL-2.0 Unicode-3.0'
+  categories:
+    - app-benchmarks
 - repo: liguros_develop
   srcname: app-benchmarks/hyperfine
   visiblename: app-benchmarks/hyperfine
@@ -1307,6 +1317,18 @@
   summary: A command-line benchmarking tool (mingw-w64)
   licenses:
     - spdx:MIT OR Apache-2.0
+- repo: opensuse_leap_15_6
+  subrepo: main/oss
+  srcname: hyperfine
+  visiblename: hyperfine
+  version: 1.17.0
+  origversion: 1.17.0-bp156.2.8
+  status: outdated
+  summary: Command-line benchmarking tool
+  licenses:
+    - Apache-2.0 OR MIT
+  categories:
+    - System/Benchmark
 - repo: msys2_clangarm64
   srcname: mingw-w64-hyperfine
   binname: mingw-w64-clang-aarch64-hyperfine
@@ -1402,28 +1424,6 @@
   maintainers:
     - nix@mdaniels.me
     - aseipp@pobox.com
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: rosa_13
-  subrepo: contrib/release
-  srcname: hyperfine
-  binnames:
-    - hyperfine
-    - hyperfine-bash-completion
-    - hyperfine-fish-completion
-    - hyperfine-zsh-completion
-  visiblename: hyperfine
-  version: 1.20.0
-  origversion: 1.20.0-1
-  status: outdated
-  summary: Command-line benchmarking tool
-  maintainers:
-    - a.proklov@rosa.ru
-  licenses:
-    - Apache-2.0 OR MIT
-  categories:
-    - Development/Other
 - repo: openbsd
   srcname: benchmarks/hyperfine
   binname: hyperfine
@@ -1502,18 +1502,19 @@
     - Apache-2.0 OR MIT
   categories:
     - System/Benchmark
-- repo: opensuse_leap_15_6
-  subrepo: main/oss
+- repo: t2
   srcname: hyperfine
   visiblename: hyperfine
-  version: 1.17.0
-  origversion: 1.17.0-bp156.2.8
-  status: outdated
-  summary: Command-line benchmarking tool
+  version: 2.0.0
+  origversion: null
+  status: newest
+  summary: A command-line benchmarking tool
+  maintainers:
+    - rene@exactco.de
   licenses:
-    - Apache-2.0 OR MIT
+    - APL
   categories:
-    - System/Benchmark
+    - extra/tool
 - repo: opensuse_tumbleweed
   subrepo: src-oss
   srcname: hyperfine
@@ -1693,6 +1694,25 @@
     - Apache-2.0 OR MIT
   categories:
     - Development/Other
+- repo: rosa_13
+  subrepo: contrib/release
+  srcname: hyperfine
+  binnames:
+    - hyperfine
+    - hyperfine-bash-completion
+    - hyperfine-fish-completion
+    - hyperfine-zsh-completion
+  visiblename: hyperfine
+  version: 1.20.0
+  origversion: 1.20.0-1
+  status: outdated
+  summary: Command-line benchmarking tool
+  maintainers:
+    - a.proklov@rosa.ru
+  licenses:
+    - Apache-2.0 OR MIT
+  categories:
+    - Development/Other
 - repo: scoop
   subrepo: main
   binname: hyperfine
@@ -1756,9 +1776,9 @@
   srcname: bin/hyper/fine
   binname: bin/hyper/fine
   visiblename: bin/hyper/fine
-  version: 1.21.0
+  version: 2.0.0
   origversion: null
-  status: outdated
+  status: newest
   maintainers:
     - anton@samokhvalov.xyz
   categories:
@@ -1774,29 +1794,6 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
-- repo: t2
-  srcname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
-  summary: A command-line benchmarking tool
-  maintainers:
-    - rene@exactco.de
-  licenses:
-    - APL
-  categories:
-    - extra/tool
-- repo: termux
-  srcname: hyperfine
-  binname: hyperfine
-  visiblename: hyperfine
-  version: 2.0.0
-  origversion: null
-  status: newest
-  summary: A command-line benchmarking tool
-  maintainers:
-    - termux@github
 - repo: ubuntu_22_04
   subrepo: jammy-updates/universe
   srcname: rust-hyperfine
