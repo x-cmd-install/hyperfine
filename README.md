@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,203 · **Forks**: 643 · **Open issues**: 287 · **Contributors**: 124
+- **Stars**: 29,209 · **Forks**: 640 · **Open issues**: 287 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 36 · **Closed issues**: 249 · **Open issues**: 38 · **Commits**: 1213
+- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 38 · **Closed issues**: 249 · **Open issues**: 38 · **Commits**: 1213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 4 | 15 | 22 | 1 | 3 | 1 |
-| last60d | 2026-09-05 | 4 | 62 | 25 | 2 | 4 | 142 |
-| 90d | 2026-08-06 | 4 | 65 | 27 | 2 | 5 | 142 |
-| last180d | 2026-05-08 | 4 | 69 | 30 | 4 | 6 | 148 |
-| 360d | 2025-11-09 | 5 | 75 | 33 | 7 | 10 | 156 |
-| last720d | 2024-11-14 | 5 | 97 | 36 | 22 | 15 | 236 |
+| 30d | 2026-10-06 | 3 | 10 | 24 | 1 | 2 | 1 |
+| last60d | 2026-09-06 | 4 | 62 | 27 | 2 | 4 | 142 |
+| 90d | 2026-08-07 | 4 | 65 | 29 | 2 | 5 | 142 |
+| last180d | 2026-05-09 | 4 | 69 | 32 | 4 | 6 | 148 |
+| 360d | 2025-11-10 | 5 | 75 | 35 | 7 | 10 | 156 |
+| last720d | 2024-11-15 | 5 | 97 | 38 | 22 | 15 | 236 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **148** distros on [repology.org](https://repology.org/project/hyperfine). **30** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+Reported by **148** distros on [repology.org](https://repology.org/project/hyperfine). **31** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:02:31Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:24:01Z._
