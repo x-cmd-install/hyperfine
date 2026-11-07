@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,215 · **Forks**: 640 · **Open issues**: 287 · **Contributors**: 124
+- **Stars**: 29,221 · **Forks**: 641 · **Open issues**: 287 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 1 | 24 | 1 | 2 | 1 |
-| last60d | 2026-09-07 | 4 | 62 | 27 | 2 | 4 | 142 |
-| 90d | 2026-08-08 | 4 | 65 | 29 | 2 | 5 | 142 |
-| last180d | 2026-05-10 | 4 | 69 | 32 | 4 | 6 | 148 |
-| 360d | 2025-11-11 | 5 | 75 | 35 | 7 | 10 | 156 |
-| last720d | 2024-11-16 | 5 | 97 | 38 | 22 | 15 | 236 |
+| 30d | 2026-10-08 | 0 | 1 | 23 | 1 | 2 | 1 |
+| last60d | 2026-09-08 | 4 | 62 | 27 | 2 | 4 | 142 |
+| 90d | 2026-08-09 | 4 | 65 | 29 | 2 | 5 | 142 |
+| last180d | 2026-05-11 | 4 | 69 | 32 | 4 | 6 | 148 |
+| 360d | 2025-11-12 | 5 | 75 | 35 | 7 | 10 | 156 |
+| last720d | 2024-11-17 | 5 | 97 | 38 | 22 | 15 | 236 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **148** distros on [repology.org](https://repology.org/project/hyperfine). **31** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
+Reported by **149** distros on [repology.org](https://repology.org/project/hyperfine). **32** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:26:07Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:33:43Z._
