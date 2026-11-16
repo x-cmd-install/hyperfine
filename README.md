@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,276 · **Forks**: 651 · **Open issues**: 288 · **Contributors**: 124
+- **Stars**: 29,284 · **Forks**: 695 · **Open issues**: 288 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 18 | 0 | 3 | 0 |
-| last60d | 2026-09-16 | 4 | 62 | 29 | 2 | 5 | 142 |
-| 90d | 2026-08-17 | 4 | 63 | 29 | 2 | 5 | 142 |
-| last180d | 2026-05-19 | 4 | 69 | 34 | 4 | 6 | 148 |
-| 360d | 2025-11-20 | 4 | 73 | 36 | 7 | 10 | 154 |
-| last720d | 2024-11-25 | 5 | 96 | 40 | 21 | 16 | 236 |
+| 30d | 2026-10-17 | 0 | 0 | 17 | 0 | 3 | 0 |
+| last60d | 2026-09-17 | 4 | 62 | 29 | 2 | 5 | 142 |
+| 90d | 2026-08-18 | 4 | 63 | 29 | 2 | 5 | 142 |
+| last180d | 2026-05-20 | 4 | 69 | 34 | 4 | 6 | 147 |
+| 360d | 2025-11-21 | 4 | 72 | 36 | 7 | 10 | 152 |
+| last720d | 2024-11-26 | 5 | 96 | 40 | 21 | 16 | 236 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Reported by **150** distros on [repology.org](https://repology.org/project/hyper
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
 | Arch | `2.0.0` | ✅ latest |
-| Homebrew | `2.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `1.20.0` | ⚠️ outdated |
 | Nix unstable | `2.0.0` | ✅ latest |
 | Void | `1.20.0` | ⚠️ outdated |
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:20:22Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:32:45Z._

@@ -47,7 +47,7 @@ x install hyperfine
 
 ## 流行度
 
-- **Star**: 29,276 · **Fork**: 651 · **开放 issue**: 288 · **贡献者**: 124
+- **Star**: 29,284 · **Fork**: 695 · **开放 issue**: 288 · **贡献者**: 124
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install hyperfine
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 18 | 0 | 3 | 0 |
-| last60d | 2026-09-16 | 4 | 62 | 29 | 2 | 5 | 142 |
-| 90d | 2026-08-17 | 4 | 63 | 29 | 2 | 5 | 142 |
-| last180d | 2026-05-19 | 4 | 69 | 34 | 4 | 6 | 148 |
-| 360d | 2025-11-20 | 4 | 73 | 36 | 7 | 10 | 154 |
-| last720d | 2024-11-25 | 5 | 96 | 40 | 21 | 16 | 236 |
+| 30d | 2026-10-17 | 0 | 0 | 17 | 0 | 3 | 0 |
+| last60d | 2026-09-17 | 4 | 62 | 29 | 2 | 5 | 142 |
+| 90d | 2026-08-18 | 4 | 63 | 29 | 2 | 5 | 142 |
+| last180d | 2026-05-20 | 4 | 69 | 34 | 4 | 6 | 147 |
+| 360d | 2025-11-21 | 4 | 72 | 36 | 7 | 10 | 152 |
+| last720d | 2024-11-26 | 5 | 96 | 40 | 21 | 16 | 236 |
 
 ## Release 资产
 
@@ -101,7 +101,7 @@ x install hyperfine
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
 | Arch | `2.0.0` | ✅ latest |
-| Homebrew | `2.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `1.20.0` | ⚠️ outdated |
 | Nix unstable | `2.0.0` | ✅ latest |
 | Void | `1.20.0` | ⚠️ outdated |
@@ -117,4 +117,4 @@ hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T07:20:23Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T07:32:45Z._
