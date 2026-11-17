@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,284 · **Forks**: 695 · **Open issues**: 288 · **Contributors**: 124
+- **Stars**: 29,289 · **Forks**: 736 · **Open issues**: 288 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 40 · **Closed issues**: 249 · **Open issues**: 39 · **Commits**: 1213
+- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 41 · **Closed issues**: 249 · **Open issues**: 39 · **Commits**: 1213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 17 | 0 | 3 | 0 |
-| last60d | 2026-09-17 | 4 | 62 | 29 | 2 | 5 | 142 |
-| 90d | 2026-08-18 | 4 | 63 | 29 | 2 | 5 | 142 |
-| last180d | 2026-05-20 | 4 | 69 | 34 | 4 | 6 | 147 |
-| 360d | 2025-11-21 | 4 | 72 | 36 | 7 | 10 | 152 |
-| last720d | 2024-11-26 | 5 | 96 | 40 | 21 | 16 | 236 |
+| 30d | 2026-10-18 | 0 | 0 | 17 | 0 | 3 | 0 |
+| last60d | 2026-09-18 | 4 | 62 | 30 | 2 | 5 | 142 |
+| 90d | 2026-08-19 | 4 | 63 | 30 | 2 | 5 | 142 |
+| last180d | 2026-05-21 | 4 | 69 | 35 | 4 | 6 | 147 |
+| 360d | 2025-11-22 | 4 | 72 | 37 | 7 | 10 | 152 |
+| last720d | 2024-11-27 | 5 | 96 | 41 | 20 | 16 | 236 |
 
 ## Release assets
 
@@ -92,7 +92,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **150** distros on [repology.org](https://repology.org/project/hyperfine). **33** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
+Reported by **151** distros on [repology.org](https://repology.org/project/hyperfine). **33** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -101,7 +101,7 @@ Reported by **150** distros on [repology.org](https://repology.org/project/hyper
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
 | Arch | `2.0.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.0.0` | ✅ latest |
 | Fedora rawhide | `1.20.0` | ⚠️ outdated |
 | Nix unstable | `2.0.0` | ✅ latest |
 | Void | `1.20.0` | ⚠️ outdated |
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:32:45Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:20:53Z._
