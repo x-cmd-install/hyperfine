@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,300 · **Forks**: 755 · **Open issues**: 288 · **Contributors**: 124
+- **Stars**: 29,304 · **Forks**: 754 · **Open issues**: 288 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 41 · **Closed issues**: 250 · **Open issues**: 38 · **Commits**: 1213
+- **Releases**: 30 · **Merged PRs**: 543 · **Open PRs**: 42 · **Closed issues**: 250 · **Open issues**: 38 · **Commits**: 1213
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 0 | 16 | 1 | 2 | 0 |
-| last60d | 2026-09-20 | 4 | 62 | 30 | 3 | 4 | 142 |
-| 90d | 2026-08-21 | 4 | 63 | 30 | 3 | 4 | 142 |
-| last180d | 2026-05-23 | 4 | 69 | 35 | 5 | 5 | 147 |
-| 360d | 2025-11-24 | 4 | 71 | 37 | 8 | 9 | 152 |
-| last720d | 2024-11-29 | 5 | 96 | 41 | 21 | 15 | 236 |
+| 30d | 2026-10-21 | 0 | 0 | 17 | 1 | 2 | 0 |
+| last60d | 2026-09-21 | 4 | 62 | 30 | 3 | 3 | 142 |
+| 90d | 2026-08-22 | 4 | 63 | 31 | 3 | 4 | 142 |
+| last180d | 2026-05-24 | 4 | 68 | 36 | 5 | 5 | 147 |
+| 360d | 2025-11-25 | 4 | 71 | 38 | 8 | 9 | 152 |
+| last720d | 2024-11-30 | 5 | 96 | 42 | 21 | 15 | 236 |
 
 ## Release assets
 
@@ -101,7 +101,7 @@ Reported by **153** distros on [repology.org](https://repology.org/project/hyper
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
 | Arch | `2.0.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `2.0.0` | ✅ latest |
 | Fedora rawhide | `1.20.0` | ⚠️ outdated |
 | Nix unstable | `2.0.0` | ✅ latest |
 | Void | `1.20.0` | ⚠️ outdated |
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:51:13Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:24:42Z._
