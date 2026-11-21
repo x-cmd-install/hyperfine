@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,304 · **Forks**: 754 · **Open issues**: 288 · **Contributors**: 124
+- **Stars**: 29,312 · **Forks**: 685 · **Open issues**: 288 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 17 | 1 | 2 | 0 |
-| last60d | 2026-09-21 | 4 | 62 | 30 | 3 | 3 | 142 |
-| 90d | 2026-08-22 | 4 | 63 | 31 | 3 | 4 | 142 |
-| last180d | 2026-05-24 | 4 | 68 | 36 | 5 | 5 | 147 |
-| 360d | 2025-11-25 | 4 | 71 | 38 | 8 | 9 | 152 |
-| last720d | 2024-11-30 | 5 | 96 | 42 | 21 | 15 | 236 |
+| 30d | 2026-10-22 | 0 | 0 | 17 | 1 | 2 | 0 |
+| last60d | 2026-09-22 | 4 | 61 | 30 | 3 | 3 | 142 |
+| 90d | 2026-08-23 | 4 | 63 | 31 | 3 | 4 | 142 |
+| last180d | 2026-05-25 | 4 | 68 | 36 | 5 | 5 | 147 |
+| 360d | 2025-11-26 | 4 | 71 | 38 | 8 | 9 | 152 |
+| last720d | 2024-12-01 | 5 | 94 | 42 | 21 | 15 | 236 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:24:42Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:29:40Z._
