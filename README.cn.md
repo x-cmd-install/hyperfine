@@ -47,22 +47,22 @@ x install hyperfine
 
 ## 流行度
 
-- **Star**: 29,338 · **Fork**: 689 · **开放 issue**: 289 · **贡献者**: 124
+- **Star**: 29,351 · **Fork**: 689 · **开放 issue**: 289 · **贡献者**: 124
 
 ## 累计统计
 
-- **发布数**: 30 · **已合并 PR**: 543 · **开放 PR**: 45 · **已关闭 issue**: 250 · **开放 issue**: 39 · **提交数**: 1213
+- **发布数**: 30 · **已合并 PR**: 543 · **开放 PR**: 44 · **已关闭 issue**: 250 · **开放 issue**: 39 · **提交数**: 1213
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 19 | 1 | 3 | 0 |
-| last60d | 2026-09-24 | 4 | 61 | 33 | 3 | 4 | 0 |
-| 90d | 2026-08-25 | 4 | 63 | 34 | 3 | 5 | 0 |
-| last180d | 2026-05-27 | 4 | 68 | 39 | 4 | 6 | 0 |
-| 360d | 2025-11-28 | 4 | 71 | 41 | 8 | 10 | 0 |
-| last720d | 2024-12-03 | 5 | 94 | 45 | 20 | 16 | 233 |
+| 30d | 2026-10-25 | 0 | 0 | 18 | 1 | 3 | 0 |
+| last60d | 2026-09-25 | 4 | 61 | 32 | 3 | 4 | 142 |
+| 90d | 2026-08-26 | 4 | 63 | 33 | 3 | 5 | 142 |
+| last180d | 2026-05-28 | 4 | 68 | 38 | 4 | 6 | 145 |
+| 360d | 2025-11-29 | 4 | 71 | 40 | 8 | 10 | 152 |
+| last720d | 2024-12-04 | 5 | 94 | 44 | 20 | 16 | 233 |
 
 ## Release 资产
 
@@ -92,7 +92,7 @@ x install hyperfine
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/hyperfine) 上共有 **153** 个发行版报告此项目。**36** 个 ✅ 已是最新上游版本，**104** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/hyperfine) 上共有 **153** 个发行版报告此项目。**37** 个 ✅ 已是最新上游版本，**103** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -101,7 +101,7 @@ x install hyperfine
 | Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
 | Arch | `2.0.0` | ✅ latest |
-| Homebrew | `2.0.0` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `1.20.0` | ⚠️ outdated |
 | Nix unstable | `2.0.0` | ✅ latest |
 | Void | `1.20.0` | ⚠️ outdated |
@@ -117,4 +117,4 @@ hyperfine 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T08:34:05Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T11:13:54Z._
