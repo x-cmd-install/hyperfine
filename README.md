@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 29,351 · **Forks**: 689 · **Open issues**: 289 · **Contributors**: 124
+- **Stars**: 29,364 · **Forks**: 688 · **Open issues**: 289 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 18 | 1 | 3 | 0 |
-| last60d | 2026-09-25 | 4 | 61 | 32 | 3 | 4 | 142 |
-| 90d | 2026-08-26 | 4 | 63 | 33 | 3 | 5 | 142 |
-| last180d | 2026-05-28 | 4 | 68 | 38 | 4 | 6 | 145 |
-| 360d | 2025-11-29 | 4 | 71 | 40 | 8 | 10 | 152 |
-| last720d | 2024-12-04 | 5 | 94 | 44 | 20 | 16 | 233 |
+| 30d | 2026-10-26 | 0 | 0 | 16 | 1 | 3 | 0 |
+| last60d | 2026-09-26 | 4 | 61 | 32 | 3 | 4 | 142 |
+| 90d | 2026-08-27 | 4 | 63 | 33 | 3 | 5 | 142 |
+| last180d | 2026-05-29 | 4 | 68 | 38 | 4 | 6 | 145 |
+| 360d | 2025-11-30 | 4 | 71 | 40 | 8 | 10 | 152 |
+| last720d | 2024-12-05 | 5 | 94 | 44 | 20 | 16 | 233 |
 
 ## Release assets
 
@@ -90,24 +90,6 @@ Lowest-scoring checks:
 | [hyperfine_2.0.0_armhf.deb](https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_armhf.deb) | 555.6 KiB | `runtime/deb/armhf` |
 | [hyperfine_2.0.0_i686.deb](https://github.com/sharkdp/hyperfine/releases/download/v2.0.0/hyperfine_2.0.0_i686.deb) | 604.5 KiB | `other` |
 
-## Distribution status
-
-Reported by **153** distros on [repology.org](https://repology.org/project/hyperfine). **37** are ✅ on the latest upstream release, **103** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.0.0` | ✅ latest |
-| Debian 13 | `1.19.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.19.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.18.0` | ⚠️ outdated |
-| Arch | `2.0.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `1.20.0` | ⚠️ outdated |
-| Nix unstable | `2.0.0` | ✅ latest |
-| Void | `1.20.0` | ⚠️ outdated |
-| Alpine edge | `2.0.0` | ✅ latest |
-| openSUSE Tumbleweed | `2.0.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `hyperfine` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +99,4 @@ Install metadata for hyperfine lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:13:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:03:54Z._
